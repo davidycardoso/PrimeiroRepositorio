@@ -1,0 +1,9 @@
+git init -> inicializa 
+
+git add -> adciona o arquivo
+
+git status -> revela o status do projeto
+
+git commit -> comentario e cria uma versificção nova
+
+git push -> adciona o arquivo no github
