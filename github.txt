@@ -1,0 +1,14 @@
+git -> sistema de versiona arquivos
+linha cronológica, atualiza a cada versão que voc~e faz uma versão nova sigficativa.
+Com o git você consegue voltar versões, caso você faça um erro, pode retroceer a uma antiga versão.
+
+Git hub -> consegue hospedar suas versionizações.
+começa na escola e hospeda no hub e termina na sua casa, depois pode voltar o projeto na escola.
+
+REPOSITÓRIO
+onde armazena a pasta que ficara seus projetos
+
+o github serve tambem como potifolio, muitas empreasas pedem sua conta.
+
+Branch e Main
+
